@@ -69,7 +69,7 @@ export default function AboutUsPage() {
                   <AvatarFallback>DV</AvatarFallback>
                 </Avatar>
                 <div className="text-center">
-                  <h3 className="text-lg font-bold">Deshan Vimukthi</h3>
+                  <h3 className="text-lg font-bold">Deshan</h3>
                   <p className="text-muted-foreground">Co-Founder & CTO</p>
                 </div>
               </div>
