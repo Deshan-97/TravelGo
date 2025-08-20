@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <!-- Background -->
+  <rect width="192" height="192" fill="#000000" rx="24"/>
+  
+  <!-- Car Icon -->
+  <g transform="translate(48, 68)">
+    <!-- Car Body -->
+    <path d="M18 36h60c3.3 0 6 2.7 6 6v30H12v-30c0-3.3 2.7-6 6-6z" fill="#FFD700"/>
+    
+    <!-- Car Roof -->
+    <path d="M30 36L36 18h48l6 18z" fill="#FFD700"/>
+    
+    <!-- Windows -->
+    <rect x="33" y="21" width="45" height="12" fill="#000000" rx="2"/>
+    
+    <!-- Wheels -->
+    <circle cx="30" cy="78" r="9" fill="#333"/>
+    <circle cx="30" cy="78" r="6" fill="#666"/>
+    <circle cx="84" cy="78" r="9" fill="#333"/>
+    <circle cx="84" cy="78" r="6" fill="#666"/>
+    
+    <!-- Wheel wells -->
+    <rect x="21" y="69" width="18" height="9" fill="#000000" rx="4.5"/>
+    <rect x="75" y="69" width="18" height="9" fill="#000000" rx="4.5"/>
+  </g>
+  
+  <!-- App Name -->
+  <text x="96" y="135" text-anchor="middle" fill="#FFD700" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    TravelGO
+  </text>
+  
+  <!-- Tagline -->
+  <text x="96" y="150" text-anchor="middle" fill="#CCCCCC" font-family="Arial, sans-serif" font-size="8">
+    Premium Vehicle Hire
+  </text>
+</svg>

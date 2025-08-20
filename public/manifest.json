@@ -1,0 +1,25 @@
+{
+  "name": "TravelGo - Vehicle Hire Platform",
+  "short_name": "TravelGo",
+  "description": "Your premium vehicle hire partner",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#FFD700",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["travel", "transportation"],
+  "lang": "en",
+  "dir": "ltr",
+  "gcm_sender_id": "103953800507",
+  "permissions": [
+    "notifications"
+  ]
+}
